@@ -28,7 +28,7 @@
 #### World
 
 - Mob vacuum
-- Dump enemies
+- Dumb enemies
 - Kill aura
 
 #### Visuals
