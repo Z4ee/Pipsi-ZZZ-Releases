@@ -27,6 +27,8 @@
 
 #### World
 
+- Global Speed
+- Auto-Skip
 - Mob vacuum
 - Dumb enemies
 - Kill aura
