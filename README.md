@@ -8,8 +8,6 @@
 
 <h1 align="center">Getting Started</h1>
 
-## Only the global version is supported
-
 ### Usage
 
 1. Download last release.
@@ -28,7 +26,7 @@
 #### World
 
 - Global Speed
-- Auto-Skip
+- Auto Skip
 - Mob vacuum
 - Dumb enemies
 - Kill aura
