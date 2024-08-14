@@ -25,6 +25,7 @@
 
 #### World
 
+- Chest Teleport
 - Global Speed
 - Auto Skip
 - Mob vacuum
