@@ -19,28 +19,31 @@
 
 #### Player
 
-- Noclip
 - Godmode
 - Hit multiplier
+- Noclip
 
 #### World
 
-- Chest Teleport
-- Global Speed
 - Auto Skip
-- Mob vacuum
+- Chest Teleport
 - Dumb enemies
+- Global Speed
 - Kill aura
+- Instant Win
+- Mob vacuum
+
 
 #### Visuals
 
 - Fov changer
-- Hide UI
-- UID changer
+- Fps Indicator
+- Custom Graphics
+- Hide Ui
+- Peeking
+- Uid changer
 
 #### Misc
 
-- FPS Indicator
+- Load/Save/Reset Config
 - FPS Unlocker
-- Load Config
-- Save Config
