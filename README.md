@@ -26,6 +26,7 @@
 #### World
 
 - Auto Skip
+- Auto Talk
 - Chest Teleport
 - Dumb enemies
 - Global Speed
