@@ -18,10 +18,13 @@
 <h1 align="center">Features</h1>
 
 #### Player
-
+- Damage Multiplier
 - Godmode
 - Hit multiplier
+- Instant Stun
 - Noclip
+- Unlimited Assist Points
+- Unlimited Ultimate
 
 #### World
 
@@ -37,9 +40,10 @@
 
 #### Visuals
 
+- Custom Graphics
 - Fov changer
 - Fps Indicator
-- Custom Graphics
+- Free Camera
 - Hide Ui
 - Peeking
 - Uid changer
@@ -47,4 +51,6 @@
 #### Misc
 
 - Load/Save/Reset Config
-- FPS Unlocker
+- Custom Menu Font
+- Fps Unlock
+- Skin Changer
