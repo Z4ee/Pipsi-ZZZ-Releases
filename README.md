@@ -19,8 +19,8 @@
 
 #### Player
 - Damage Multiplier
-- Godmode
-- Hit multiplier
+- God Mode
+- Hit Multiplier
 - Instant Stun
 - Noclip
 - Unlimited Assist Points
@@ -31,22 +31,22 @@
 - Auto Skip
 - Auto Talk
 - Chest Teleport
-- Dumb enemies
+- Dumb Enemies
 - Global Speed
-- Kill aura
+- Kill Aura
 - Instant Win
-- Mob vacuum
+- Mob Vacuum
 
 
 #### Visuals
 
 - Custom Graphics
-- Fov changer
+- Fov Changer
 - Fps Indicator
 - Free Camera
 - Hide Ui
 - Peeking
-- Uid changer
+- Uid Changer
 
 #### Misc
 
