@@ -37,6 +37,13 @@
 - Instant Win
 - Mob Vacuum
 
+#### Mini Games
+- Bizarre Brigade
+  - God Mode
+- Mach 25
+  - God Mode
+- Snake Duel
+  - God Mode
 
 #### Visuals
 
