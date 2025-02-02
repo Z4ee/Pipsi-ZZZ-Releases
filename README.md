@@ -29,6 +29,10 @@
 #### World
 
 - Auto Skip
+  - Cutscene
+  - Dialogue
+  - Galge
+  - Comic
 - Auto Talk
 - Chest Teleport
 - Dumb Enemies
