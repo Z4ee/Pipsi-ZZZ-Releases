@@ -1,0 +1,10 @@
+.artifacts/
+.venv/
+__pycache__/
+*.py[cod]
+build/
+*.dll
+*.exe
+*.otf
+*.ttf
+*.zip

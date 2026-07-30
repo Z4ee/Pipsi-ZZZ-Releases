@@ -6,6 +6,10 @@
  <a href="https://discord.gg/tPKFCs4VbB"><img src="https://img.shields.io/discord/1207191906958975006?label=Discord&logo=discord&style=for-the-badge&color=blue"></a>
 </p>
 
+<p align="center">
+  English | <a href="README.zh-CN.md">简体中文</a>
+</p>
+
 <h1 align="center">Getting Started</h1>
 
 ### Usage
